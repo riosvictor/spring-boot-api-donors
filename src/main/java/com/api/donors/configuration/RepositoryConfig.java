@@ -3,7 +3,7 @@ package com.api.donors.configuration;
 import com.api.donors.model.Donor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
-import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;d
+import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;
 
 @Configuration
 public class RepositoryConfig implements RepositoryRestConfigurer {
